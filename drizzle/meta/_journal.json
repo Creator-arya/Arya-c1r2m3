@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763396456407,
+      "tag": "0000_late_la_nuit",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763396485006,
+      "tag": "0001_mature_devos",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763472092169,
+      "tag": "0002_easy_anthem",
+      "breakpoints": true
+    }
+  ]
+}
